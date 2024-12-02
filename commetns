@@ -1,0 +1,23 @@
+
+// fetch("https://1.rome.api.flipkart.com/api/4/page/fetch", {
+//   headers: {
+//     accept: "*/*",
+//     "accept-language": "en-US,en;q=0.9,ta;q=0.8",
+//     "content-type": "application/json",
+//     "sec-ch-ua":
+//       '"Chromium";v="130", "Google Chrome";v="130", "Not?A_Brand";v="99"',
+//     "sec-ch-ua-mobile": "?0",
+//     "sec-ch-ua-platform": '"Linux"',
+//     "sec-fetch-dest": "empty",
+//     "sec-fetch-mode": "cors",
+//     "sec-fetch-site": "same-site",
+//     "x-user-agent":
+//       "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 FKUA/website/42/website/Desktop",
+//     cookie:
+//       "T=TI172304236525600257411585594030097177602954025888703542525224805329; vh=932; dpr=1; ULSN=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJjb29raWUiLCJhdWQiOiJmbGlwa2FydCIsImlzcyI6ImF1dGguZmxpcGthcnQuY29tIiwiY2xhaW1zIjp7ImdlbiI6IjEiLCJ1bmlxdWVJZCI6IlVVSTI0MDgxOTE4MjM1OTQxNzM3VEtOWDQiLCJma0RldiI6bnVsbH0sImV4cCI6MTczOTg1MjAzOSwiaWF0IjoxNzI0MDcyMDM5LCJqdGkiOiI3NjQzN2JmNS0zN2I3LTQxNmMtODc0Mi04OWZlMTM5ZjlhZmEifQ.o0ByC_rMaB0c9cpvHspbwIUe74mj_MbtJBLJFA9ceko; AMCVS_17EB401053DAF4840A490D4C%40AdobeOrg=1; AMCV_17EB401053DAF4840A490D4C%40AdobeOrg=-227196251%7CMCIDTS%7C20060%7CMCMID%7C86383474554977086163831031465519238151%7CMCAID%7CNONE%7CMCOPTOUT-1733159514s%7CNONE%7CMCAAMLH-1733757114%7C12%7CMCAAMB-1733757114%7Cj8Odv6LonN4r3an7LhD3WZrU1bUpAkFkkiY1ncBR96t2PTI; gpv_pn=HomePage; gpv_pn_t=FLIPKART%3AHomePage; Network-Type=4g; vw=1155; at=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImQ2Yjk5NDViLWZmYTEtNGQ5ZC1iZDQyLTFkN2RmZTU4ZGNmYSJ9.eyJleHAiOjE3MzQ4ODA5MzUsImlhdCI6MTczMzE1MjkzNSwiaXNzIjoia2V2bGFyIiwianRpIjoiYTE5OWJiNTYtYjYwMy00NDcwLTgzZGQtNTQ5ODY0MTU1NDA3IiwidHlwZSI6IkFUIiwiZElkIjoiVEkxNzIzMDQyMzY1MjU2MDAyNTc0MTE1ODU1OTQwMzAwOTcxNzc2MDI5NTQwMjU4ODg3MDM1NDI1MjUyMjQ4MDUzMjkiLCJrZXZJZCI6IlZJRTYyOTQ1RUE3NzE1NDBGQzkwRUE4NzFFQ0RDQUNFNDciLCJ0SWQiOiJtYXBpIiwidnMiOiJMTyIsInoiOiJDSCIsIm0iOnRydWUsImdlbiI6NH0.zrCtk_e0aDNx5QaMwH9dqVKEWOTfxKIU0pXGyGHUNIY; K-ACTION=null; ud=9.S6ak3OoglKxCq8yLSP_Sp32DwwHNgEkq_s_BKqH9QIGbL3__glaf15XNqZb-CF4K988qhH-3_BMXtBp7H1xiYQQH2-a8lYrabcr11WActvuNjPKLSBsvdw-JY5jfpY-tZlfn9U-CLSLxV0RmbvJ81Q; vd=VIE62945EA771540FC90EA871ECDCACE47-1733152935809-1.1733152935.1733152935.155592572; S=d1t18Pz8/Pz9fYnM/PwRvSE9iPwySeFNOY2kLjKJ0y5MymSA2ouxnrfQFn4+Vtz4TUEyr8/7jqTvBOQf0Wyv1nQ7AOA==; s_sq=flipkart-prd%3D%2526pid%253DHomePage%2526pidt%253D1%2526oid%253Dhttps%25253A%25252F%25252Fwww.flipkart.com%25252Fsearch%25253Fq%25253Dmotorola%25252Bmobiles%25252B5g%252526sid%25253Dtyy%2525252C4io%252526as%25253Don%252526as-show%25253Don%252526otracker%25253DAS_Que%2526ot%253DA; rt=null; SN=VIE62945EA771540FC90EA871ECDCACE47.TOKD238758D4DC64848A77C92E9B42E3C58.1733152958152.LO",
+//     Referer: "https://www.flipkart.com/",
+//     "Referrer-Policy": "strict-origin-when-cross-origin",
+//   },
+//   body: '{"pageUri":"/motorola-g85-5g-cobalt-blue-128-gb/product-reviews/itm3c5fb4da1bfe6?pid=MOBHY9PQ7FGZKVDK&lid=LSTMOBHY9PQ7FGZKVDK4B1TIW&marketplace=FLIPKART","pageContext":{"fetchSeoData":true}}',
+//   method: "POST",
+// });
