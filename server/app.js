@@ -1,7 +1,9 @@
 const axios = require("axios");
 const express = require("express");
+const cors = require("cors");
 const app = express();
 
+app.use(cors());
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
@@ -45,6 +47,7 @@ const fetchReiviews = async (actualUrl) => {
     "Referrer-Policy": "strict-origin-when-cross-origin",
   };
   const newUrl = convertToReviewUrl(actualUrl);
+  const productName = newUrl.split("/")[1];
   console.log(newUrl);
 
   const body = {
@@ -68,20 +71,20 @@ const fetchReiviews = async (actualUrl) => {
       }))
     );
 
-    return allReviews;
+    return { reviews: allReviews, productName: productName };
   } else {
     console.error("Reviews widget not found!");
   }
 };
 
-app.get("/review", async (req, res) => {
+app.post("/review", async (req, res) => {
   const link = req.body.link;
-  console.log(link);
 
   if (!link) {
     return res.status(300).json({ message: "Invalid link" });
   }
-  res.status(200).json({ reviews: await fetchReiviews(link) });
+  const { reviews, productName } = await fetchReiviews(link);
+  res.status(200).json({ reviews: reviews, productName: productName });
 });
 
 app.listen(9020, () => {
