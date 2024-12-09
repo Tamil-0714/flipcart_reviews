@@ -44,5 +44,6 @@ document.addEventListener("DOMContentLoaded", () => {
       theme: "dark",
       value: review,
     }).render("#json-viewer");
+    document.querySelector("#productName").textContent = productName;
   });
 });

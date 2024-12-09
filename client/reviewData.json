@@ -1,0 +1,872 @@
+{
+    "reviews": [
+        {
+            "author": "Brean",
+            "rating": 5,
+            "title": "Mind-blowing purchase",
+            "text": "Product is good. Spacious for 15.6 inch Laptop. Can accommodate charger and accessories also.",
+            "helpfulCount": 34,
+            "images": [
+                {
+                    "action": {
+                        "constraints": null,
+                        "customTrackingEvents": null,
+                        "fallback": null,
+                        "loginType": "LOGIN_NOT_REQUIRED",
+                        "nonWidgetizeRedirection": null,
+                        "omnitureData": null,
+                        "omnitureTracking": null,
+                        "originalUrl": "/review-image-fullscreen?pid=BAGG94ZATAKZHB7R&imageId=blobio-imr_d424a40c4e544d8cbe3359157fd963c4.jpg&reviewReferenceId=BAGG94ZATAKZHB7R:211&language=en",
+                        "params": {
+                            "imageId": "blobio-imr_d424a40c4e544d8cbe3359157fd963c4.jpg",
+                            "imagesShown": 3,
+                            "screenName": "productReviewFullScreenPage",
+                            "horizontallyPaginated": true,
+                            "paginationUrl": "/review-image-grid?pid=BAGG94ZATAKZHB7R&reviewId=aab678c7-b1e7-46b8-b0e3-358afb397801&reviewReferenceId=BAGG94ZATAKZHB7R:211",
+                            "totalImageCount": 3
+                        },
+                        "requiredPermissionType": null,
+                        "screenType": "multiWidgetPage",
+                        "storeValue": {},
+                        "subType": null,
+                        "tracking": {},
+                        "triggerExtraStandardEvents": null,
+                        "type": "NAVIGATION",
+                        "url": "/review-image-fullscreen?pid=BAGG94ZATAKZHB7R&imageId=blobio-imr_d424a40c4e544d8cbe3359157fd963c4.jpg&reviewReferenceId=BAGG94ZATAKZHB7R:211&language=en",
+                        "validationMeta": null,
+                        "widgetTracking": null,
+                        "widgetizedActions": null
+                    },
+                    "metaData": null,
+                    "rcType": null,
+                    "tracking": null,
+                    "trackingData": null,
+                    "value": {
+                        "type": "ReviewImage",
+                        "imageId": "blobio-imr_d424a40c4e544d8cbe3359157fd963c4.jpg",
+                        "imageURL": "https://rukminim1.flixcart.com/blobio/{@width}/{@height}/imr/blobio-imr_d424a40c4e544d8cbe3359157fd963c4.jpg?q={@quality}",
+                        "viewType": "DEFAULT_VIEW"
+                    }
+                },
+                {
+                    "action": {
+                        "constraints": null,
+                        "customTrackingEvents": null,
+                        "fallback": null,
+                        "loginType": "LOGIN_NOT_REQUIRED",
+                        "nonWidgetizeRedirection": null,
+                        "omnitureData": null,
+                        "omnitureTracking": null,
+                        "originalUrl": "/review-image-fullscreen?pid=BAGG94ZATAKZHB7R&imageId=blobio-imr_423d7329d19146c7a1e30bbfdfa7e395.jpg&reviewReferenceId=BAGG94ZATAKZHB7R:211&language=en",
+                        "params": {
+                            "imageId": "blobio-imr_423d7329d19146c7a1e30bbfdfa7e395.jpg",
+                            "imagesShown": 3,
+                            "screenName": "productReviewFullScreenPage",
+                            "horizontallyPaginated": true,
+                            "paginationUrl": "/review-image-grid?pid=BAGG94ZATAKZHB7R&reviewId=aab678c7-b1e7-46b8-b0e3-358afb397801&reviewReferenceId=BAGG94ZATAKZHB7R:211",
+                            "totalImageCount": 3
+                        },
+                        "requiredPermissionType": null,
+                        "screenType": "multiWidgetPage",
+                        "storeValue": {},
+                        "subType": null,
+                        "tracking": {},
+                        "triggerExtraStandardEvents": null,
+                        "type": "NAVIGATION",
+                        "url": "/review-image-fullscreen?pid=BAGG94ZATAKZHB7R&imageId=blobio-imr_423d7329d19146c7a1e30bbfdfa7e395.jpg&reviewReferenceId=BAGG94ZATAKZHB7R:211&language=en",
+                        "validationMeta": null,
+                        "widgetTracking": null,
+                        "widgetizedActions": null
+                    },
+                    "metaData": null,
+                    "rcType": null,
+                    "tracking": null,
+                    "trackingData": null,
+                    "value": {
+                        "type": "ReviewImage",
+                        "imageId": "blobio-imr_423d7329d19146c7a1e30bbfdfa7e395.jpg",
+                        "imageURL": "https://rukminim1.flixcart.com/blobio/{@width}/{@height}/imr/blobio-imr_423d7329d19146c7a1e30bbfdfa7e395.jpg?q={@quality}",
+                        "viewType": "DEFAULT_VIEW"
+                    }
+                },
+                {
+                    "action": {
+                        "constraints": null,
+                        "customTrackingEvents": null,
+                        "fallback": null,
+                        "loginType": "LOGIN_NOT_REQUIRED",
+                        "nonWidgetizeRedirection": null,
+                        "omnitureData": null,
+                        "omnitureTracking": null,
+                        "originalUrl": "/review-image-fullscreen?pid=BAGG94ZATAKZHB7R&imageId=blobio-imr_54d4d81e449d4b929d947d5706d2f3ea.jpg&reviewReferenceId=BAGG94ZATAKZHB7R:211&language=en",
+                        "params": {
+                            "imageId": "blobio-imr_54d4d81e449d4b929d947d5706d2f3ea.jpg",
+                            "imagesShown": 3,
+                            "screenName": "productReviewFullScreenPage",
+                            "horizontallyPaginated": true,
+                            "paginationUrl": "/review-image-grid?pid=BAGG94ZATAKZHB7R&reviewId=aab678c7-b1e7-46b8-b0e3-358afb397801&reviewReferenceId=BAGG94ZATAKZHB7R:211",
+                            "totalImageCount": 3
+                        },
+                        "requiredPermissionType": null,
+                        "screenType": "multiWidgetPage",
+                        "storeValue": {},
+                        "subType": null,
+                        "tracking": {},
+                        "triggerExtraStandardEvents": null,
+                        "type": "NAVIGATION",
+                        "url": "/review-image-fullscreen?pid=BAGG94ZATAKZHB7R&imageId=blobio-imr_54d4d81e449d4b929d947d5706d2f3ea.jpg&reviewReferenceId=BAGG94ZATAKZHB7R:211&language=en",
+                        "validationMeta": null,
+                        "widgetTracking": null,
+                        "widgetizedActions": null
+                    },
+                    "metaData": null,
+                    "rcType": null,
+                    "tracking": null,
+                    "trackingData": null,
+                    "value": {
+                        "type": "ReviewImage",
+                        "imageId": "blobio-imr_54d4d81e449d4b929d947d5706d2f3ea.jpg",
+                        "imageURL": "https://rukminim1.flixcart.com/blobio/{@width}/{@height}/imr/blobio-imr_54d4d81e449d4b929d947d5706d2f3ea.jpg?q={@quality}",
+                        "viewType": "DEFAULT_VIEW"
+                    }
+                }
+            ]
+        },
+        {
+            "author": "Nikhilesh Biswas",
+            "rating": 4,
+            "title": "Delightful",
+            "text": "The design is impressive and it looks premium. Spaces provided are quite adequate. The chains are smooth. But there are no side paddings provided and if the charger adapter is kept in the top pocket it puts a little pressure on the laptop inside. The sides would have to be atleast 1/4th inch wider to suit all of its purpose. Overall it's good.",
+            "helpfulCount": 74,
+            "images": [
+                {
+                    "action": {
+                        "constraints": null,
+                        "customTrackingEvents": null,
+                        "fallback": null,
+                        "loginType": "LOGIN_NOT_REQUIRED",
+                        "nonWidgetizeRedirection": null,
+                        "omnitureData": null,
+                        "omnitureTracking": null,
+                        "originalUrl": "/review-image-fullscreen?pid=BAGG94ZATAKZHB7R&imageId=blobio-imr-202207_d8aad89f09f84e82a134875f95fe68ca.jpg&reviewReferenceId=BAGG94ZATAKZHB7R:90&language=en",
+                        "params": {
+                            "imageId": "blobio-imr-202207_d8aad89f09f84e82a134875f95fe68ca.jpg",
+                            "imagesShown": 4,
+                            "screenName": "productReviewFullScreenPage",
+                            "horizontallyPaginated": true,
+                            "paginationUrl": "/review-image-grid?pid=BAGG94ZATAKZHB7R&reviewId=882bd27f-3ca9-4d4b-9536-a7f79b856a5b&reviewReferenceId=BAGG94ZATAKZHB7R:90",
+                            "totalImageCount": 4
+                        },
+                        "requiredPermissionType": null,
+                        "screenType": "multiWidgetPage",
+                        "storeValue": {},
+                        "subType": null,
+                        "tracking": {},
+                        "triggerExtraStandardEvents": null,
+                        "type": "NAVIGATION",
+                        "url": "/review-image-fullscreen?pid=BAGG94ZATAKZHB7R&imageId=blobio-imr-202207_d8aad89f09f84e82a134875f95fe68ca.jpg&reviewReferenceId=BAGG94ZATAKZHB7R:90&language=en",
+                        "validationMeta": null,
+                        "widgetTracking": null,
+                        "widgetizedActions": null
+                    },
+                    "metaData": null,
+                    "rcType": null,
+                    "tracking": null,
+                    "trackingData": null,
+                    "value": {
+                        "type": "ReviewImage",
+                        "imageId": "blobio-imr-202207_d8aad89f09f84e82a134875f95fe68ca.jpg",
+                        "imageURL": "https://rukminim1.flixcart.com/blobio/{@width}/{@height}/imr-202207/blobio-imr-202207_d8aad89f09f84e82a134875f95fe68ca.jpg?q={@quality}",
+                        "viewType": "DEFAULT_VIEW"
+                    }
+                },
+                {
+                    "action": {
+                        "constraints": null,
+                        "customTrackingEvents": null,
+                        "fallback": null,
+                        "loginType": "LOGIN_NOT_REQUIRED",
+                        "nonWidgetizeRedirection": null,
+                        "omnitureData": null,
+                        "omnitureTracking": null,
+                        "originalUrl": "/review-image-fullscreen?pid=BAGG94ZATAKZHB7R&imageId=blobio-imr-202207_86afe13d28e4413facbfb259ff05a7c3.jpg&reviewReferenceId=BAGG94ZATAKZHB7R:90&language=en",
+                        "params": {
+                            "imageId": "blobio-imr-202207_86afe13d28e4413facbfb259ff05a7c3.jpg",
+                            "imagesShown": 4,
+                            "screenName": "productReviewFullScreenPage",
+                            "horizontallyPaginated": true,
+                            "paginationUrl": "/review-image-grid?pid=BAGG94ZATAKZHB7R&reviewId=882bd27f-3ca9-4d4b-9536-a7f79b856a5b&reviewReferenceId=BAGG94ZATAKZHB7R:90",
+                            "totalImageCount": 4
+                        },
+                        "requiredPermissionType": null,
+                        "screenType": "multiWidgetPage",
+                        "storeValue": {},
+                        "subType": null,
+                        "tracking": {},
+                        "triggerExtraStandardEvents": null,
+                        "type": "NAVIGATION",
+                        "url": "/review-image-fullscreen?pid=BAGG94ZATAKZHB7R&imageId=blobio-imr-202207_86afe13d28e4413facbfb259ff05a7c3.jpg&reviewReferenceId=BAGG94ZATAKZHB7R:90&language=en",
+                        "validationMeta": null,
+                        "widgetTracking": null,
+                        "widgetizedActions": null
+                    },
+                    "metaData": null,
+                    "rcType": null,
+                    "tracking": null,
+                    "trackingData": null,
+                    "value": {
+                        "type": "ReviewImage",
+                        "imageId": "blobio-imr-202207_86afe13d28e4413facbfb259ff05a7c3.jpg",
+                        "imageURL": "https://rukminim1.flixcart.com/blobio/{@width}/{@height}/imr-202207/blobio-imr-202207_86afe13d28e4413facbfb259ff05a7c3.jpg?q={@quality}",
+                        "viewType": "DEFAULT_VIEW"
+                    }
+                },
+                {
+                    "action": {
+                        "constraints": null,
+                        "customTrackingEvents": null,
+                        "fallback": null,
+                        "loginType": "LOGIN_NOT_REQUIRED",
+                        "nonWidgetizeRedirection": null,
+                        "omnitureData": null,
+                        "omnitureTracking": null,
+                        "originalUrl": "/review-image-fullscreen?pid=BAGG94ZATAKZHB7R&imageId=blobio-imr-202207_135aca6cac724d8f85043deba2876fe3.jpg&reviewReferenceId=BAGG94ZATAKZHB7R:90&language=en",
+                        "params": {
+                            "imageId": "blobio-imr-202207_135aca6cac724d8f85043deba2876fe3.jpg",
+                            "imagesShown": 4,
+                            "screenName": "productReviewFullScreenPage",
+                            "horizontallyPaginated": true,
+                            "paginationUrl": "/review-image-grid?pid=BAGG94ZATAKZHB7R&reviewId=882bd27f-3ca9-4d4b-9536-a7f79b856a5b&reviewReferenceId=BAGG94ZATAKZHB7R:90",
+                            "totalImageCount": 4
+                        },
+                        "requiredPermissionType": null,
+                        "screenType": "multiWidgetPage",
+                        "storeValue": {},
+                        "subType": null,
+                        "tracking": {},
+                        "triggerExtraStandardEvents": null,
+                        "type": "NAVIGATION",
+                        "url": "/review-image-fullscreen?pid=BAGG94ZATAKZHB7R&imageId=blobio-imr-202207_135aca6cac724d8f85043deba2876fe3.jpg&reviewReferenceId=BAGG94ZATAKZHB7R:90&language=en",
+                        "validationMeta": null,
+                        "widgetTracking": null,
+                        "widgetizedActions": null
+                    },
+                    "metaData": null,
+                    "rcType": null,
+                    "tracking": null,
+                    "trackingData": null,
+                    "value": {
+                        "type": "ReviewImage",
+                        "imageId": "blobio-imr-202207_135aca6cac724d8f85043deba2876fe3.jpg",
+                        "imageURL": "https://rukminim1.flixcart.com/blobio/{@width}/{@height}/imr-202207/blobio-imr-202207_135aca6cac724d8f85043deba2876fe3.jpg?q={@quality}",
+                        "viewType": "DEFAULT_VIEW"
+                    }
+                },
+                {
+                    "action": {
+                        "constraints": null,
+                        "customTrackingEvents": null,
+                        "fallback": null,
+                        "loginType": "LOGIN_NOT_REQUIRED",
+                        "nonWidgetizeRedirection": null,
+                        "omnitureData": null,
+                        "omnitureTracking": null,
+                        "originalUrl": "/review-image-fullscreen?pid=BAGG94ZATAKZHB7R&imageId=blobio-imr-202207_5b1422955f2e49b9a790441f9224d8c1.jpg&reviewReferenceId=BAGG94ZATAKZHB7R:90&language=en",
+                        "params": {
+                            "imageId": "blobio-imr-202207_5b1422955f2e49b9a790441f9224d8c1.jpg",
+                            "imagesShown": 4,
+                            "screenName": "productReviewFullScreenPage",
+                            "horizontallyPaginated": true,
+                            "paginationUrl": "/review-image-grid?pid=BAGG94ZATAKZHB7R&reviewId=882bd27f-3ca9-4d4b-9536-a7f79b856a5b&reviewReferenceId=BAGG94ZATAKZHB7R:90",
+                            "totalImageCount": 4
+                        },
+                        "requiredPermissionType": null,
+                        "screenType": "multiWidgetPage",
+                        "storeValue": {},
+                        "subType": null,
+                        "tracking": {},
+                        "triggerExtraStandardEvents": null,
+                        "type": "NAVIGATION",
+                        "url": "/review-image-fullscreen?pid=BAGG94ZATAKZHB7R&imageId=blobio-imr-202207_5b1422955f2e49b9a790441f9224d8c1.jpg&reviewReferenceId=BAGG94ZATAKZHB7R:90&language=en",
+                        "validationMeta": null,
+                        "widgetTracking": null,
+                        "widgetizedActions": null
+                    },
+                    "metaData": null,
+                    "rcType": null,
+                    "tracking": null,
+                    "trackingData": null,
+                    "value": {
+                        "type": "ReviewImage",
+                        "imageId": "blobio-imr-202207_5b1422955f2e49b9a790441f9224d8c1.jpg",
+                        "imageURL": "https://rukminim1.flixcart.com/blobio/{@width}/{@height}/imr-202207/blobio-imr-202207_5b1422955f2e49b9a790441f9224d8c1.jpg?q={@quality}",
+                        "viewType": "DEFAULT_VIEW"
+                    }
+                }
+            ]
+        },
+        {
+            "author": "Aayush verma",
+            "rating": 4,
+            "title": "Good quality product",
+            "text": "It's good, according to price, smooth cloth, good chain, suitafir 15.6 inch laptop. Extra compartment for charger. Overall good, go for it♥️",
+            "helpfulCount": 18,
+            "images": [
+                {
+                    "action": {
+                        "constraints": null,
+                        "customTrackingEvents": null,
+                        "fallback": null,
+                        "loginType": "LOGIN_NOT_REQUIRED",
+                        "nonWidgetizeRedirection": null,
+                        "omnitureData": null,
+                        "omnitureTracking": null,
+                        "originalUrl": "/review-image-fullscreen?pid=BAGG94ZATAKZHB7R&imageId=blobio-imr-202204_59608e5cad57415db080321fb6978f52.jpg&reviewReferenceId=BAGG94ZATAKZHB7R:27&language=en",
+                        "params": {
+                            "imageId": "blobio-imr-202204_59608e5cad57415db080321fb6978f52.jpg",
+                            "imagesShown": 3,
+                            "screenName": "productReviewFullScreenPage",
+                            "horizontallyPaginated": true,
+                            "paginationUrl": "/review-image-grid?pid=BAGG94ZATAKZHB7R&reviewId=2806ea93-7638-482e-b5bf-23c68bacf517&reviewReferenceId=BAGG94ZATAKZHB7R:27",
+                            "totalImageCount": 3
+                        },
+                        "requiredPermissionType": null,
+                        "screenType": "multiWidgetPage",
+                        "storeValue": {},
+                        "subType": null,
+                        "tracking": {},
+                        "triggerExtraStandardEvents": null,
+                        "type": "NAVIGATION",
+                        "url": "/review-image-fullscreen?pid=BAGG94ZATAKZHB7R&imageId=blobio-imr-202204_59608e5cad57415db080321fb6978f52.jpg&reviewReferenceId=BAGG94ZATAKZHB7R:27&language=en",
+                        "validationMeta": null,
+                        "widgetTracking": null,
+                        "widgetizedActions": null
+                    },
+                    "metaData": null,
+                    "rcType": null,
+                    "tracking": null,
+                    "trackingData": null,
+                    "value": {
+                        "type": "ReviewImage",
+                        "imageId": "blobio-imr-202204_59608e5cad57415db080321fb6978f52.jpg",
+                        "imageURL": "https://rukminim1.flixcart.com/blobio/{@width}/{@height}/imr-202204/blobio-imr-202204_59608e5cad57415db080321fb6978f52.jpg?q={@quality}",
+                        "viewType": "DEFAULT_VIEW"
+                    }
+                },
+                {
+                    "action": {
+                        "constraints": null,
+                        "customTrackingEvents": null,
+                        "fallback": null,
+                        "loginType": "LOGIN_NOT_REQUIRED",
+                        "nonWidgetizeRedirection": null,
+                        "omnitureData": null,
+                        "omnitureTracking": null,
+                        "originalUrl": "/review-image-fullscreen?pid=BAGG94ZATAKZHB7R&imageId=blobio-imr-202204_54a0a992ff2a45358742a420f86c5b72.jpg&reviewReferenceId=BAGG94ZATAKZHB7R:27&language=en",
+                        "params": {
+                            "imageId": "blobio-imr-202204_54a0a992ff2a45358742a420f86c5b72.jpg",
+                            "imagesShown": 3,
+                            "screenName": "productReviewFullScreenPage",
+                            "horizontallyPaginated": true,
+                            "paginationUrl": "/review-image-grid?pid=BAGG94ZATAKZHB7R&reviewId=2806ea93-7638-482e-b5bf-23c68bacf517&reviewReferenceId=BAGG94ZATAKZHB7R:27",
+                            "totalImageCount": 3
+                        },
+                        "requiredPermissionType": null,
+                        "screenType": "multiWidgetPage",
+                        "storeValue": {},
+                        "subType": null,
+                        "tracking": {},
+                        "triggerExtraStandardEvents": null,
+                        "type": "NAVIGATION",
+                        "url": "/review-image-fullscreen?pid=BAGG94ZATAKZHB7R&imageId=blobio-imr-202204_54a0a992ff2a45358742a420f86c5b72.jpg&reviewReferenceId=BAGG94ZATAKZHB7R:27&language=en",
+                        "validationMeta": null,
+                        "widgetTracking": null,
+                        "widgetizedActions": null
+                    },
+                    "metaData": null,
+                    "rcType": null,
+                    "tracking": null,
+                    "trackingData": null,
+                    "value": {
+                        "type": "ReviewImage",
+                        "imageId": "blobio-imr-202204_54a0a992ff2a45358742a420f86c5b72.jpg",
+                        "imageURL": "https://rukminim1.flixcart.com/blobio/{@width}/{@height}/imr-202204/blobio-imr-202204_54a0a992ff2a45358742a420f86c5b72.jpg?q={@quality}",
+                        "viewType": "DEFAULT_VIEW"
+                    }
+                },
+                {
+                    "action": {
+                        "constraints": null,
+                        "customTrackingEvents": null,
+                        "fallback": null,
+                        "loginType": "LOGIN_NOT_REQUIRED",
+                        "nonWidgetizeRedirection": null,
+                        "omnitureData": null,
+                        "omnitureTracking": null,
+                        "originalUrl": "/review-image-fullscreen?pid=BAGG94ZATAKZHB7R&imageId=blobio-imr-202204_7fd05257aa1b436eb780c7ce9bed2be0.jpg&reviewReferenceId=BAGG94ZATAKZHB7R:27&language=en",
+                        "params": {
+                            "imageId": "blobio-imr-202204_7fd05257aa1b436eb780c7ce9bed2be0.jpg",
+                            "imagesShown": 3,
+                            "screenName": "productReviewFullScreenPage",
+                            "horizontallyPaginated": true,
+                            "paginationUrl": "/review-image-grid?pid=BAGG94ZATAKZHB7R&reviewId=2806ea93-7638-482e-b5bf-23c68bacf517&reviewReferenceId=BAGG94ZATAKZHB7R:27",
+                            "totalImageCount": 3
+                        },
+                        "requiredPermissionType": null,
+                        "screenType": "multiWidgetPage",
+                        "storeValue": {},
+                        "subType": null,
+                        "tracking": {},
+                        "triggerExtraStandardEvents": null,
+                        "type": "NAVIGATION",
+                        "url": "/review-image-fullscreen?pid=BAGG94ZATAKZHB7R&imageId=blobio-imr-202204_7fd05257aa1b436eb780c7ce9bed2be0.jpg&reviewReferenceId=BAGG94ZATAKZHB7R:27&language=en",
+                        "validationMeta": null,
+                        "widgetTracking": null,
+                        "widgetizedActions": null
+                    },
+                    "metaData": null,
+                    "rcType": null,
+                    "tracking": null,
+                    "trackingData": null,
+                    "value": {
+                        "type": "ReviewImage",
+                        "imageId": "blobio-imr-202204_7fd05257aa1b436eb780c7ce9bed2be0.jpg",
+                        "imageURL": "https://rukminim1.flixcart.com/blobio/{@width}/{@height}/imr-202204/blobio-imr-202204_7fd05257aa1b436eb780c7ce9bed2be0.jpg?q={@quality}",
+                        "viewType": "DEFAULT_VIEW"
+                    }
+                }
+            ]
+        },
+        {
+            "author": "Rajat Singh",
+            "rating": 5,
+            "title": "Simply awesome",
+            "text": "Quality is super in budget",
+            "helpfulCount": 33,
+            "images": [
+                {
+                    "action": {
+                        "constraints": null,
+                        "customTrackingEvents": null,
+                        "fallback": null,
+                        "loginType": "LOGIN_NOT_REQUIRED",
+                        "nonWidgetizeRedirection": null,
+                        "omnitureData": null,
+                        "omnitureTracking": null,
+                        "originalUrl": "/review-image-fullscreen?pid=BAGG94ZATAKZHB7R&imageId=blobio-imr-202112_8323471f5f114f0dbc647fec0e94bcd7.jpg&reviewReferenceId=BAGG94ZATAKZHB7R:3&language=en",
+                        "params": {
+                            "imageId": "blobio-imr-202112_8323471f5f114f0dbc647fec0e94bcd7.jpg",
+                            "imagesShown": 2,
+                            "screenName": "productReviewFullScreenPage",
+                            "horizontallyPaginated": true,
+                            "paginationUrl": "/review-image-grid?pid=BAGG94ZATAKZHB7R&reviewId=22e23591-1cb8-4690-91e4-36f704cd42f7&reviewReferenceId=BAGG94ZATAKZHB7R:3",
+                            "totalImageCount": 2
+                        },
+                        "requiredPermissionType": null,
+                        "screenType": "multiWidgetPage",
+                        "storeValue": {},
+                        "subType": null,
+                        "tracking": {},
+                        "triggerExtraStandardEvents": null,
+                        "type": "NAVIGATION",
+                        "url": "/review-image-fullscreen?pid=BAGG94ZATAKZHB7R&imageId=blobio-imr-202112_8323471f5f114f0dbc647fec0e94bcd7.jpg&reviewReferenceId=BAGG94ZATAKZHB7R:3&language=en",
+                        "validationMeta": null,
+                        "widgetTracking": null,
+                        "widgetizedActions": null
+                    },
+                    "metaData": null,
+                    "rcType": null,
+                    "tracking": null,
+                    "trackingData": null,
+                    "value": {
+                        "type": "ReviewImage",
+                        "imageId": "blobio-imr-202112_8323471f5f114f0dbc647fec0e94bcd7.jpg",
+                        "imageURL": "https://rukminim1.flixcart.com/blobio/{@width}/{@height}/imr-202112/blobio-imr-202112_8323471f5f114f0dbc647fec0e94bcd7.jpg?q={@quality}",
+                        "viewType": "DEFAULT_VIEW"
+                    }
+                },
+                {
+                    "action": {
+                        "constraints": null,
+                        "customTrackingEvents": null,
+                        "fallback": null,
+                        "loginType": "LOGIN_NOT_REQUIRED",
+                        "nonWidgetizeRedirection": null,
+                        "omnitureData": null,
+                        "omnitureTracking": null,
+                        "originalUrl": "/review-image-fullscreen?pid=BAGG94ZATAKZHB7R&imageId=blobio-imr-202112_565faa0561174008af71aba31d43224b.jpg&reviewReferenceId=BAGG94ZATAKZHB7R:3&language=en",
+                        "params": {
+                            "imageId": "blobio-imr-202112_565faa0561174008af71aba31d43224b.jpg",
+                            "imagesShown": 2,
+                            "screenName": "productReviewFullScreenPage",
+                            "horizontallyPaginated": true,
+                            "paginationUrl": "/review-image-grid?pid=BAGG94ZATAKZHB7R&reviewId=22e23591-1cb8-4690-91e4-36f704cd42f7&reviewReferenceId=BAGG94ZATAKZHB7R:3",
+                            "totalImageCount": 2
+                        },
+                        "requiredPermissionType": null,
+                        "screenType": "multiWidgetPage",
+                        "storeValue": {},
+                        "subType": null,
+                        "tracking": {},
+                        "triggerExtraStandardEvents": null,
+                        "type": "NAVIGATION",
+                        "url": "/review-image-fullscreen?pid=BAGG94ZATAKZHB7R&imageId=blobio-imr-202112_565faa0561174008af71aba31d43224b.jpg&reviewReferenceId=BAGG94ZATAKZHB7R:3&language=en",
+                        "validationMeta": null,
+                        "widgetTracking": null,
+                        "widgetizedActions": null
+                    },
+                    "metaData": null,
+                    "rcType": null,
+                    "tracking": null,
+                    "trackingData": null,
+                    "value": {
+                        "type": "ReviewImage",
+                        "imageId": "blobio-imr-202112_565faa0561174008af71aba31d43224b.jpg",
+                        "imageURL": "https://rukminim1.flixcart.com/blobio/{@width}/{@height}/imr-202112/blobio-imr-202112_565faa0561174008af71aba31d43224b.jpg?q={@quality}",
+                        "viewType": "DEFAULT_VIEW"
+                    }
+                }
+            ]
+        },
+        {
+            "author": "Shubham Kanade Kanade",
+            "rating": 4,
+            "title": "Really Nice",
+            "text": "I am writing a review after using it for 6 months. Overall it's a good product,  although the chain of front pocket slipped after 3-4 months, i had to replace it locally, in spite of that everything looks great , padding is Good, looks premium",
+            "helpfulCount": 4,
+            "images": []
+        },
+        {
+            "author": "Sahqib  Akhtar",
+            "rating": 4,
+            "title": "Really Nice",
+            "text": "Over all good enough in this price range..! Good material, Enough space for 15 inch laptop. \nU can go for it ..!",
+            "helpfulCount": 4,
+            "images": []
+        },
+        {
+            "author": "Rahul Gupta",
+            "rating": 5,
+            "title": "Must buy!",
+            "text": "Classy product",
+            "helpfulCount": 4,
+            "images": [
+                {
+                    "action": {
+                        "constraints": null,
+                        "customTrackingEvents": null,
+                        "fallback": null,
+                        "loginType": "LOGIN_NOT_REQUIRED",
+                        "nonWidgetizeRedirection": null,
+                        "omnitureData": null,
+                        "omnitureTracking": null,
+                        "originalUrl": "/review-image-fullscreen?pid=BAGG94ZATAKZHB7R&imageId=blobio-imr-202205_81e4c6059cde433e8908818c97ee75e0.jpg&reviewReferenceId=BAGG94ZATAKZHB7R:37&language=en",
+                        "params": {
+                            "imageId": "blobio-imr-202205_81e4c6059cde433e8908818c97ee75e0.jpg",
+                            "imagesShown": 2,
+                            "screenName": "productReviewFullScreenPage",
+                            "horizontallyPaginated": true,
+                            "paginationUrl": "/review-image-grid?pid=BAGG94ZATAKZHB7R&reviewId=307d60c2-bf3d-4767-b5b0-5269a7776940&reviewReferenceId=BAGG94ZATAKZHB7R:37",
+                            "totalImageCount": 2
+                        },
+                        "requiredPermissionType": null,
+                        "screenType": "multiWidgetPage",
+                        "storeValue": {},
+                        "subType": null,
+                        "tracking": {},
+                        "triggerExtraStandardEvents": null,
+                        "type": "NAVIGATION",
+                        "url": "/review-image-fullscreen?pid=BAGG94ZATAKZHB7R&imageId=blobio-imr-202205_81e4c6059cde433e8908818c97ee75e0.jpg&reviewReferenceId=BAGG94ZATAKZHB7R:37&language=en",
+                        "validationMeta": null,
+                        "widgetTracking": null,
+                        "widgetizedActions": null
+                    },
+                    "metaData": null,
+                    "rcType": null,
+                    "tracking": null,
+                    "trackingData": null,
+                    "value": {
+                        "type": "ReviewImage",
+                        "imageId": "blobio-imr-202205_81e4c6059cde433e8908818c97ee75e0.jpg",
+                        "imageURL": "https://rukminim1.flixcart.com/blobio/{@width}/{@height}/imr-202205/blobio-imr-202205_81e4c6059cde433e8908818c97ee75e0.jpg?q={@quality}",
+                        "viewType": "DEFAULT_VIEW"
+                    }
+                },
+                {
+                    "action": {
+                        "constraints": null,
+                        "customTrackingEvents": null,
+                        "fallback": null,
+                        "loginType": "LOGIN_NOT_REQUIRED",
+                        "nonWidgetizeRedirection": null,
+                        "omnitureData": null,
+                        "omnitureTracking": null,
+                        "originalUrl": "/review-image-fullscreen?pid=BAGG94ZATAKZHB7R&imageId=blobio-imr-202205_b2cefded6d1a49eca6c12359360226c7.jpg&reviewReferenceId=BAGG94ZATAKZHB7R:37&language=en",
+                        "params": {
+                            "imageId": "blobio-imr-202205_b2cefded6d1a49eca6c12359360226c7.jpg",
+                            "imagesShown": 2,
+                            "screenName": "productReviewFullScreenPage",
+                            "horizontallyPaginated": true,
+                            "paginationUrl": "/review-image-grid?pid=BAGG94ZATAKZHB7R&reviewId=307d60c2-bf3d-4767-b5b0-5269a7776940&reviewReferenceId=BAGG94ZATAKZHB7R:37",
+                            "totalImageCount": 2
+                        },
+                        "requiredPermissionType": null,
+                        "screenType": "multiWidgetPage",
+                        "storeValue": {},
+                        "subType": null,
+                        "tracking": {},
+                        "triggerExtraStandardEvents": null,
+                        "type": "NAVIGATION",
+                        "url": "/review-image-fullscreen?pid=BAGG94ZATAKZHB7R&imageId=blobio-imr-202205_b2cefded6d1a49eca6c12359360226c7.jpg&reviewReferenceId=BAGG94ZATAKZHB7R:37&language=en",
+                        "validationMeta": null,
+                        "widgetTracking": null,
+                        "widgetizedActions": null
+                    },
+                    "metaData": null,
+                    "rcType": null,
+                    "tracking": null,
+                    "trackingData": null,
+                    "value": {
+                        "type": "ReviewImage",
+                        "imageId": "blobio-imr-202205_b2cefded6d1a49eca6c12359360226c7.jpg",
+                        "imageURL": "https://rukminim1.flixcart.com/blobio/{@width}/{@height}/imr-202205/blobio-imr-202205_b2cefded6d1a49eca6c12359360226c7.jpg?q={@quality}",
+                        "viewType": "DEFAULT_VIEW"
+                    }
+                }
+            ]
+        },
+        {
+            "author": "~SBT .",
+            "rating": 5,
+            "title": "Mind-blowing purchase",
+            "text": "Does the job!",
+            "helpfulCount": 16,
+            "images": [
+                {
+                    "action": {
+                        "constraints": null,
+                        "customTrackingEvents": null,
+                        "fallback": null,
+                        "loginType": "LOGIN_NOT_REQUIRED",
+                        "nonWidgetizeRedirection": null,
+                        "omnitureData": null,
+                        "omnitureTracking": null,
+                        "originalUrl": "/review-image-fullscreen?pid=BAGG94ZATAKZHB7R&imageId=blobio-imr-202112_81c5dfe354584f12bf38bae4a7c7d85c.jpg&reviewReferenceId=BAGG94ZATAKZHB7R:1&language=en",
+                        "params": {
+                            "imageId": "blobio-imr-202112_81c5dfe354584f12bf38bae4a7c7d85c.jpg",
+                            "imagesShown": 1,
+                            "screenName": "productReviewFullScreenPage",
+                            "horizontallyPaginated": true,
+                            "paginationUrl": "/review-image-grid?pid=BAGG94ZATAKZHB7R&reviewId=c445c7fa-7b17-472e-a4c8-c415fdeeab55&reviewReferenceId=BAGG94ZATAKZHB7R:1",
+                            "totalImageCount": 1
+                        },
+                        "requiredPermissionType": null,
+                        "screenType": "multiWidgetPage",
+                        "storeValue": {},
+                        "subType": null,
+                        "tracking": {},
+                        "triggerExtraStandardEvents": null,
+                        "type": "NAVIGATION",
+                        "url": "/review-image-fullscreen?pid=BAGG94ZATAKZHB7R&imageId=blobio-imr-202112_81c5dfe354584f12bf38bae4a7c7d85c.jpg&reviewReferenceId=BAGG94ZATAKZHB7R:1&language=en",
+                        "validationMeta": null,
+                        "widgetTracking": null,
+                        "widgetizedActions": null
+                    },
+                    "metaData": null,
+                    "rcType": null,
+                    "tracking": null,
+                    "trackingData": null,
+                    "value": {
+                        "type": "ReviewImage",
+                        "imageId": "blobio-imr-202112_81c5dfe354584f12bf38bae4a7c7d85c.jpg",
+                        "imageURL": "https://rukminim1.flixcart.com/blobio/{@width}/{@height}/imr-202112/blobio-imr-202112_81c5dfe354584f12bf38bae4a7c7d85c.jpg?q={@quality}",
+                        "viewType": "DEFAULT_VIEW"
+                    }
+                }
+            ]
+        },
+        {
+            "author": "Flipkart Customer",
+            "rating": 5,
+            "title": "Super!",
+            "text": "Amazingly  product  value for money's love.this item",
+            "helpfulCount": 6,
+            "images": [
+                {
+                    "action": {
+                        "constraints": null,
+                        "customTrackingEvents": null,
+                        "fallback": null,
+                        "loginType": "LOGIN_NOT_REQUIRED",
+                        "nonWidgetizeRedirection": null,
+                        "omnitureData": null,
+                        "omnitureTracking": null,
+                        "originalUrl": "/review-image-fullscreen?pid=BAGGF9FHX8JTQTUU&imageId=blobio-imr_3d919119859e4dfeb0fcc22fc43ba8e8.jpg&reviewReferenceId=BAGGF9FHX8JTQTUU:8&language=en",
+                        "params": {
+                            "imageId": "blobio-imr_3d919119859e4dfeb0fcc22fc43ba8e8.jpg",
+                            "imagesShown": 3,
+                            "screenName": "productReviewFullScreenPage",
+                            "horizontallyPaginated": true,
+                            "paginationUrl": "/review-image-grid?pid=BAGGF9FHX8JTQTUU&reviewId=6e7e74b9-8ccc-4437-ab09-871ac5b5da69&reviewReferenceId=BAGGF9FHX8JTQTUU:8",
+                            "totalImageCount": 3
+                        },
+                        "requiredPermissionType": null,
+                        "screenType": "multiWidgetPage",
+                        "storeValue": {},
+                        "subType": null,
+                        "tracking": {},
+                        "triggerExtraStandardEvents": null,
+                        "type": "NAVIGATION",
+                        "url": "/review-image-fullscreen?pid=BAGGF9FHX8JTQTUU&imageId=blobio-imr_3d919119859e4dfeb0fcc22fc43ba8e8.jpg&reviewReferenceId=BAGGF9FHX8JTQTUU:8&language=en",
+                        "validationMeta": null,
+                        "widgetTracking": null,
+                        "widgetizedActions": null
+                    },
+                    "metaData": null,
+                    "rcType": null,
+                    "tracking": null,
+                    "trackingData": null,
+                    "value": {
+                        "type": "ReviewImage",
+                        "imageId": "blobio-imr_3d919119859e4dfeb0fcc22fc43ba8e8.jpg",
+                        "imageURL": "https://rukminim1.flixcart.com/blobio/{@width}/{@height}/imr/blobio-imr_3d919119859e4dfeb0fcc22fc43ba8e8.jpg?q={@quality}",
+                        "viewType": "DEFAULT_VIEW"
+                    }
+                },
+                {
+                    "action": {
+                        "constraints": null,
+                        "customTrackingEvents": null,
+                        "fallback": null,
+                        "loginType": "LOGIN_NOT_REQUIRED",
+                        "nonWidgetizeRedirection": null,
+                        "omnitureData": null,
+                        "omnitureTracking": null,
+                        "originalUrl": "/review-image-fullscreen?pid=BAGGF9FHX8JTQTUU&imageId=blobio-imr_c2424fe130ab4cbfac5a199beb551378.jpg&reviewReferenceId=BAGGF9FHX8JTQTUU:8&language=en",
+                        "params": {
+                            "imageId": "blobio-imr_c2424fe130ab4cbfac5a199beb551378.jpg",
+                            "imagesShown": 3,
+                            "screenName": "productReviewFullScreenPage",
+                            "horizontallyPaginated": true,
+                            "paginationUrl": "/review-image-grid?pid=BAGGF9FHX8JTQTUU&reviewId=6e7e74b9-8ccc-4437-ab09-871ac5b5da69&reviewReferenceId=BAGGF9FHX8JTQTUU:8",
+                            "totalImageCount": 3
+                        },
+                        "requiredPermissionType": null,
+                        "screenType": "multiWidgetPage",
+                        "storeValue": {},
+                        "subType": null,
+                        "tracking": {},
+                        "triggerExtraStandardEvents": null,
+                        "type": "NAVIGATION",
+                        "url": "/review-image-fullscreen?pid=BAGGF9FHX8JTQTUU&imageId=blobio-imr_c2424fe130ab4cbfac5a199beb551378.jpg&reviewReferenceId=BAGGF9FHX8JTQTUU:8&language=en",
+                        "validationMeta": null,
+                        "widgetTracking": null,
+                        "widgetizedActions": null
+                    },
+                    "metaData": null,
+                    "rcType": null,
+                    "tracking": null,
+                    "trackingData": null,
+                    "value": {
+                        "type": "ReviewImage",
+                        "imageId": "blobio-imr_c2424fe130ab4cbfac5a199beb551378.jpg",
+                        "imageURL": "https://rukminim1.flixcart.com/blobio/{@width}/{@height}/imr/blobio-imr_c2424fe130ab4cbfac5a199beb551378.jpg?q={@quality}",
+                        "viewType": "DEFAULT_VIEW"
+                    }
+                },
+                {
+                    "action": {
+                        "constraints": null,
+                        "customTrackingEvents": null,
+                        "fallback": null,
+                        "loginType": "LOGIN_NOT_REQUIRED",
+                        "nonWidgetizeRedirection": null,
+                        "omnitureData": null,
+                        "omnitureTracking": null,
+                        "originalUrl": "/review-image-fullscreen?pid=BAGGF9FHX8JTQTUU&imageId=blobio-imr_de42e73fad994aa0836fd42b95016904.jpg&reviewReferenceId=BAGGF9FHX8JTQTUU:8&language=en",
+                        "params": {
+                            "imageId": "blobio-imr_de42e73fad994aa0836fd42b95016904.jpg",
+                            "imagesShown": 3,
+                            "screenName": "productReviewFullScreenPage",
+                            "horizontallyPaginated": true,
+                            "paginationUrl": "/review-image-grid?pid=BAGGF9FHX8JTQTUU&reviewId=6e7e74b9-8ccc-4437-ab09-871ac5b5da69&reviewReferenceId=BAGGF9FHX8JTQTUU:8",
+                            "totalImageCount": 3
+                        },
+                        "requiredPermissionType": null,
+                        "screenType": "multiWidgetPage",
+                        "storeValue": {},
+                        "subType": null,
+                        "tracking": {},
+                        "triggerExtraStandardEvents": null,
+                        "type": "NAVIGATION",
+                        "url": "/review-image-fullscreen?pid=BAGGF9FHX8JTQTUU&imageId=blobio-imr_de42e73fad994aa0836fd42b95016904.jpg&reviewReferenceId=BAGGF9FHX8JTQTUU:8&language=en",
+                        "validationMeta": null,
+                        "widgetTracking": null,
+                        "widgetizedActions": null
+                    },
+                    "metaData": null,
+                    "rcType": null,
+                    "tracking": null,
+                    "trackingData": null,
+                    "value": {
+                        "type": "ReviewImage",
+                        "imageId": "blobio-imr_de42e73fad994aa0836fd42b95016904.jpg",
+                        "imageURL": "https://rukminim1.flixcart.com/blobio/{@width}/{@height}/imr/blobio-imr_de42e73fad994aa0836fd42b95016904.jpg?q={@quality}",
+                        "viewType": "DEFAULT_VIEW"
+                    }
+                }
+            ]
+        },
+        {
+            "author": "Flipkart Customer",
+            "rating": 5,
+            "title": "Wonderful",
+            "text": "Amazing",
+            "helpfulCount": 6,
+            "images": [
+                {
+                    "action": {
+                        "constraints": null,
+                        "customTrackingEvents": null,
+                        "fallback": null,
+                        "loginType": "LOGIN_NOT_REQUIRED",
+                        "nonWidgetizeRedirection": null,
+                        "omnitureData": null,
+                        "omnitureTracking": null,
+                        "originalUrl": "/review-image-fullscreen?pid=BAGG94ZATAKZHB7R&imageId=blobio-imr-202205_1573c7cb5f064343871485683a3fdfbd.jpg&reviewReferenceId=BAGG94ZATAKZHB7R:35&language=en",
+                        "params": {
+                            "imageId": "blobio-imr-202205_1573c7cb5f064343871485683a3fdfbd.jpg",
+                            "imagesShown": 1,
+                            "screenName": "productReviewFullScreenPage",
+                            "horizontallyPaginated": true,
+                            "paginationUrl": "/review-image-grid?pid=BAGG94ZATAKZHB7R&reviewId=7e6af13f-b953-4060-8ec2-102477868a65&reviewReferenceId=BAGG94ZATAKZHB7R:35",
+                            "totalImageCount": 1
+                        },
+                        "requiredPermissionType": null,
+                        "screenType": "multiWidgetPage",
+                        "storeValue": {},
+                        "subType": null,
+                        "tracking": {},
+                        "triggerExtraStandardEvents": null,
+                        "type": "NAVIGATION",
+                        "url": "/review-image-fullscreen?pid=BAGG94ZATAKZHB7R&imageId=blobio-imr-202205_1573c7cb5f064343871485683a3fdfbd.jpg&reviewReferenceId=BAGG94ZATAKZHB7R:35&language=en",
+                        "validationMeta": null,
+                        "widgetTracking": null,
+                        "widgetizedActions": null
+                    },
+                    "metaData": null,
+                    "rcType": null,
+                    "tracking": null,
+                    "trackingData": null,
+                    "value": {
+                        "type": "ReviewImage",
+                        "imageId": "blobio-imr-202205_1573c7cb5f064343871485683a3fdfbd.jpg",
+                        "imageURL": "https://rukminim1.flixcart.com/blobio/{@width}/{@height}/imr-202205/blobio-imr-202205_1573c7cb5f064343871485683a3fdfbd.jpg?q={@quality}",
+                        "viewType": "DEFAULT_VIEW"
+                    }
+                }
+            ]
+        }
+    ],
+    "productName": "straplt-15-16-inch-laptop-sleeve-bag-case-briefcase-notebook-computer-ultrabook-macbook-air-pro-waterproof-protective-tables-portable-handle-bag-dark-gray-sleeve-cover"
+}
