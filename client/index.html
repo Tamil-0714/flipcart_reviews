@@ -6,14 +6,23 @@
     <title>Ai powered Review analyser</title>
     <link rel="stylesheet" href="style.css" />
     <script src="https://cdn.jsdelivr.net/npm/@textea/json-viewer@3"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
   </head>
   <body>
-    <div class="name-wrapper" style="display: flex; width: 60%; justify-content: space-evenly;" >
+    <div
+      class="name-wrapper"
+      style="display: flex; width: 60%; justify-content: space-evenly"
+    >
       <h2>Review analyser</h2>
-      <h2 id="ProductName"></h2>
+      <h2 id="productName"></h2>
     </div>
     <main>
       <div id="json-viewer"></div>
+      <div class="char-container">
+        <div>
+          <canvas id="myChart"></canvas>
+        </div>
+      </div>
       <div class="input-container">
         <label for="linkBox">Enter you flipcar link here</label>
         <input type="text" id="linkBox" />
@@ -21,8 +30,10 @@
       </div>
     </main>
     <script src="./script.js"></script>
+    <script>
+     
+    </script>
   </body>
 </html>
-
 
 <!--  -->

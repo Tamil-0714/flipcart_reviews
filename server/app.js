@@ -28,8 +28,63 @@ function convertToReviewUrl(fullUrl) {
   }
 }
 
+const delay = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
+
+const fetchReiviewsPagination = async (
+  actualUrl,
+  pageCount,
+  apiURL,
+  headers,
+  delayMs = 1000 // Default delay of 1 second between requests
+) => {
+  const paginationReview = [];
+  for (let i = 2; i <= 20; i++) {
+
+    const pageURL = `${actualUrl}&page=${i}`;
+    const body = {
+      pageUri: pageURL,
+      pageContext: { fetchSeoData: true },
+    };
+
+    try {
+      const res = await axios.post(apiURL, body, { headers });
+      const reviewsWidget = res?.data?.RESPONSE?.slots?.filter(
+        (slot) => slot?.widget?.type === "REVIEWS"
+      );
+
+      if (reviewsWidget?.length > 0) {
+        const allReviews = reviewsWidget.flatMap((slot) =>
+          slot.widget.data.renderableComponents.map((review) => ({
+            author: review?.value?.author,
+            rating: review?.value?.rating,
+            title: review?.value?.title,
+            created: review?.value?.created,
+            text: review?.value?.text,
+            helpfulCount: review?.value?.helpfulCount,
+            images: review?.value?.images || [],
+          }))
+        );
+        console.log(`page count : ${i}`);
+        paginationReview.push(allReviews);
+
+        // Process or store reviews as needed here.
+      } else {
+        console.error(`page not found count : ${i}`);
+      }
+    } catch (error) {
+      console.error(`Error on page ${i}:`, error.message);
+    }
+
+    // Add delay to avoid hitting rate limits
+    // if (i < pageCount) {
+    //   await delay(delayMs);
+    // }
+  }
+  return paginationReview.flat();
+};
+
 const fetchReiviews = async (actualUrl) => {
-  const url = "https://1.rome.api.flipkart.com/api/4/page/fetch";
+  const url = "https://2.rome.api.flipkart.com/api/4/page/fetch";
   const headers = {
     accept: "*/*",
     "accept-language": "en-US,en;q=0.9,ta;q=0.8",
@@ -48,7 +103,6 @@ const fetchReiviews = async (actualUrl) => {
   };
   const newUrl = convertToReviewUrl(actualUrl);
   const productName = newUrl.split("/")[1];
-  console.log(newUrl);
 
   const body = {
     pageUri: newUrl,
@@ -58,6 +112,18 @@ const fetchReiviews = async (actualUrl) => {
   const reviewsWidget = res?.data?.RESPONSE?.slots?.filter(
     (slot) => slot?.widget?.type === "REVIEWS"
   );
+  const paginationWidget = res?.data?.RESPONSE?.slots?.filter(
+    (slot) => slot?.widget?.type === "PAGINATION_BAR"
+  );
+
+  const totalPages = paginationWidget[0].widget.data.totalPages;
+
+  const finalPaginationResult = await fetchReiviewsPagination(
+    newUrl,
+    totalPages,
+    url,
+    headers
+  );
 
   if (reviewsWidget?.length > 0) {
     const allReviews = reviewsWidget.flatMap((slot) =>
@@ -65,13 +131,19 @@ const fetchReiviews = async (actualUrl) => {
         author: review?.value?.author,
         rating: review?.value?.rating,
         title: review?.value?.title,
+        created: review?.value?.created,
         text: review?.value?.text,
         helpfulCount: review?.value?.helpfulCount,
         images: review?.value?.images || [],
       }))
     );
+    console.log(`length of all reiews : ${allReviews.length}`);
+    console.log(`length of remainng : ${finalPaginationResult.length}`);
 
-    return { reviews: allReviews, productName: productName };
+    return {
+      reviews: [allReviews, finalPaginationResult].flat(),
+      productName: productName,
+    };
   } else {
     console.error("Reviews widget not found!");
   }

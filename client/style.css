@@ -15,7 +15,10 @@ h2 {
 }
 
 #json-viewer {
-  width: 60%;
+  width: 40%;
+}
+.char-container {
+  width: 30%;
 }
 
 .input-container {
@@ -31,6 +34,7 @@ h2 {
   border: 1px solid #ddd;
   border-radius: 8px;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  margin-left: 200px;
 }
 
 label {
